@@ -1,0 +1,11 @@
+C:\Users\rabi.aranda\source\repos\Proxy\Proxy\obj\Debug\netcoreapp2.1\Proxy.csprojAssemblyReference.cache
+C:\Users\rabi.aranda\source\repos\Proxy\Proxy\obj\Debug\netcoreapp2.1\Proxy.csproj.CoreCompileInputs.cache
+C:\Users\rabi.aranda\source\repos\Proxy\Proxy\obj\Debug\netcoreapp2.1\Proxy.AssemblyInfoInputs.cache
+C:\Users\rabi.aranda\source\repos\Proxy\Proxy\obj\Debug\netcoreapp2.1\Proxy.AssemblyInfo.cs
+C:\Users\rabi.aranda\source\repos\Proxy\Proxy\bin\Debug\netcoreapp2.1\Proxy.deps.json
+C:\Users\rabi.aranda\source\repos\Proxy\Proxy\bin\Debug\netcoreapp2.1\Proxy.runtimeconfig.json
+C:\Users\rabi.aranda\source\repos\Proxy\Proxy\bin\Debug\netcoreapp2.1\Proxy.runtimeconfig.dev.json
+C:\Users\rabi.aranda\source\repos\Proxy\Proxy\bin\Debug\netcoreapp2.1\Proxy.dll
+C:\Users\rabi.aranda\source\repos\Proxy\Proxy\bin\Debug\netcoreapp2.1\Proxy.pdb
+C:\Users\rabi.aranda\source\repos\Proxy\Proxy\obj\Debug\netcoreapp2.1\Proxy.dll
+C:\Users\rabi.aranda\source\repos\Proxy\Proxy\obj\Debug\netcoreapp2.1\Proxy.pdb
